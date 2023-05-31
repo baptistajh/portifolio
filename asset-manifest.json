@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/portifolio/static/css/main.7158cc0f.css",
-    "main.js": "/portifolio/static/js/main.501fac95.js",
-    "static/js/757.3e6cc641.chunk.js": "/portifolio/static/js/757.3e6cc641.chunk.js",
-    "static/js/454.cad0cb54.chunk.js": "/portifolio/static/js/454.cad0cb54.chunk.js",
+    "main.css": "/portifolio/static/css/main.1d9891ac.css",
+    "main.js": "/portifolio/static/js/main.04e295f7.js",
+    "static/js/305.3bb97b16.chunk.js": "/portifolio/static/js/305.3bb97b16.chunk.js",
+    "static/js/554.d44664dc.chunk.js": "/portifolio/static/js/554.d44664dc.chunk.js",
+    "static/js/543.c26e1f98.chunk.js": "/portifolio/static/js/543.c26e1f98.chunk.js",
+    "static/js/801.f615e23a.chunk.js": "/portifolio/static/js/801.f615e23a.chunk.js",
     "static/media/Linearicons-Free.svg?w118d": "/portifolio/static/media/Linearicons-Free.8c9b472b63c5ac84ede6.svg",
     "static/media/Pe-icon-7-stroke.svg?d7yf1v": "/portifolio/static/media/Pe-icon-7-stroke.09c6a96523589cb91799.svg",
     "static/media/city1.jpg": "/portifolio/static/media/city1.fadfec7c097747ec76eb.jpg",
@@ -18,7 +20,7 @@
     "index.html": "/portifolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.7158cc0f.css",
-    "static/js/main.501fac95.js"
+    "static/css/main.1d9891ac.css",
+    "static/js/main.04e295f7.js"
   ]
 }
