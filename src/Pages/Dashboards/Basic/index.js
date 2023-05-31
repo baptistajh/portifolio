@@ -56,7 +56,7 @@ export default class AnalyticsDashboard1 extends Component {
                             />
                             <Row>
                                 <Curriculo />
-                                <Col md="12" lg="6">
+                                <Col md="12" lg="6" sm='12' xs='12'>
                                     <MidiaSocial />
                                     <Objetivo />
                                 </Col>

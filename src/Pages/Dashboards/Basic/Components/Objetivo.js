@@ -67,28 +67,28 @@ const Objetivo = () => (
                 </p>
             </div>
             <Row>
-                <Col md="3" title='ReactJS'>
+                <Col md='3' sm='3' xs='3' title='ReactJS'>
                     <a href='https://react.dev/' target='_blank' rel="noopener noreferrer">
                         <div className="card mb-3 widget-chart card-border">
                             <FontAwesomeIcon icon={faReact} style={{color: "#343a40"}} size='2x' />
                         </div>
                     </a>
                 </Col>
-                <Col md="3" title='Laravel'>
+                <Col md='3' sm='3' xs='3' title='Laravel'>
                     <a href='https://laravel.com/' target='_blank' rel="noopener noreferrer">
                         <div className="card mb-3 widget-chart card-border">
                             <FontAwesomeIcon icon={faLaravel} style={{color: "#343a40"}} size='2x' />
                         </div>
                     </a>
                 </Col>
-                <Col md="3" title='JavaScript'>
+                <Col md='3' sm='3' xs='3' title='JavaScript'>
                     <a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript' target='_blank' rel="noopener noreferrer">
                         <div className="card mb-3 widget-chart card-border">
                             <FontAwesomeIcon icon={faJs} style={{color: "#343a40"}} size='2x' />
                         </div>
                     </a>
                 </Col>
-                <Col md="3" title='PHP'>
+                <Col md='3' sm='3' xs='3' title='PHP'>
                     <a href='https://www.php.net/' target='_blank' rel="noopener noreferrer">
                         <div className="card mb-3 widget-chart card-border">
                             <FontAwesomeIcon icon={faPhp} style={{color: "#343a40"}} size='2x' />
