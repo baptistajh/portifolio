@@ -1,50 +1,63 @@
-# ArchitectUI Bootstrap 5 ReactJS Theme FREE
+# Portfólio Pessoal
 
-ArchitectUI ReactJS is a free admin dashboard template based on Bootstrap and React frontend framework. It is easy to install, customiza and use. We have this template available in [Vue](https://dashboardpack.com/theme-details/architectui-dashboard-vue-pro/), [jQuery/HTML](https://dashboardpack.com/theme-details/architectui-dashboard-html-pro), [Angular](https://dashboardpack.com/theme-details/architectui-angular-7-bootstrap-material-design-pro?v=7516fd43adaa) and other version. For more awesome admin panels please check DashboardPack.com
+Este repositório contém o portfólio de um desenvolvedor front-end especializado em JavaScript e ReactJS. Aqui você encontrará uma seleção de projetos que demonstram minhas habilidades técnicas, criatividade e capacidade de resolver problemas.
 
-### Made with love by DashboardPack.com
+### Sobre Mim
 
-## PRO Version Available [here](https://dashboardpack.com/theme-details/architectui-dashboard-react-pro)
+Sou um desenvolvedor front-end apaixonado por criar experiências web interativas e envolventes. Com uma sólida base em JavaScript e experiência em ReactJS, estou constantemente buscando aprimorar minhas habilidades e explorar novas tecnologias para oferecer soluções inovadoras aos usuários.
 
-## ArchitectUI ReactJS Preview
+Nome: José Henrique Baptista Junior
 
-![ArchitectUI Bootstrap 5 ReactJS Theme FREE](https://colorlib.com/wp/wp-content/uploads/sites/2/architectui-react-free.jpg)
+Localização: Guariba, São Paulo, Brasil
+
+Website: [Portfolio](https://baptistajh.github.io/portifolio/#/apresentacao)
+
+LinkedIn: [José Henrique Baptista Junior](https://www.linkedin.com/in/jos%C3%A9-henrique-baptista-junior-259a26153/)
+
+E-mail: jhbaptista2016@gmail.com
+
+## Template utilizado: [ArchitectUI Bootstrap 5 ReactJS Theme FREE](https://dashboardpack.com/live-demo-free/?livedemo=329)
+
+## O Projeto
+Este repositório servirá como um agregador de mini projetos demonstrando as mais diversas soluções que aprendi no decorrer da minha carreira como desenvolvedor.
+
+Tecnologias utilizadas: ReactJS, HTML, CSS, JavaScript, Bootstrap e API RESTful.
 
 ### Installation
-Download and uncompress the theme package archive in your desired folder location.
+Baixe e descompacte o arquivo do pacote de tema no local da pasta desejada.
 
-Download and install Node.js from [nodejs.org/en/download/](https://nodejs.org/en/download/)
+Baixe e instale o Node.js de [nodejs.org/pt-br/download/](https://nodejs.org/pt-br/download)
 
-Install the latest version of npm. This will be useful when running all the build commands. Run the following in a command line, either your IDE's Terminal window or in a Windows Command Prompt.
+Instale a versão mais recente do npm. Isso será útil ao executar todos os comandos de compilação. Execute o seguinte em uma linha de comando, na janela Terminal do seu IDE ou em um prompt de comando do Windows.
 
                                                             
     npm install --global npm@latest
                                                             
                                                         
-Install the app dependencies by running the following command in the command line inside the folder root where you have unzipped the theme package archive.
+Instale as dependências do aplicativo executando o seguinte comando na linha de comando dentro da pasta raiz onde você descompactou o arquivo do pacote do tema.
 
 
     npm install
                                                         
-After npm finishes installing the modules from package.json you can go ahead and start the application. To do so, run the command below.
+Depois que o npm terminar de instalar os módulos do package.json, você pode prosseguir e iniciar o aplicativo. Para isso, execute o comando abaixo.
 
-You can also use yarn to install dependencies instead of npm.
+Você também pode usar yarn para instalar dependências em vez de npm.
 
 
     npm run start
                                                         
-After the comand finished, you should see a Compiled successfully! message in your terminal window. Also, a web server service will be started so you can view your app in the browser: http://localhost:3000
+Depois que o comando terminar, você deverá ver um Compilado com sucesso! mensagem na janela do seu terminal. Além disso, um serviço de servidor web será iniciado para que você possa visualizar seu aplicativo no navegador: http://localhost:3000
 
 ### Production Build
 
-To create a production optimised build run the command below:
+Para criar uma compilação otimizada para produção, execute o comando abaixo:
 
 
     npm run build
                                                         
-This created another folder in the root of your project named build. You'll have an option to start a local web server to view your newly created production build.
+Isso criou outra pasta na raiz do seu projeto chamada build. Você terá a opção de iniciar um servidor Web local para visualizar sua compilação de produção recém-criada.
 
 
     serve -s build -l 4000
                                                         
-This will start a local web server on port 4000, on which the production folder (/build/) will be available in your browser.
+Isso iniciará um servidor web local na porta 4000, no qual a pasta de produção (/build/) estará disponível em seu navegador.
