@@ -1,7 +1,7 @@
 {
   "name": "architectui-react-theme-free",
   "version": "2.1.0",
-  "homepage": "/",
+  "homepage": "https://gitname.github.io/portifolio/",
   "private": true,
   "description": "ArchitectUI - Bootstrap 5 ReactJS Admin Dashboard Template FREE",
   "author": "DashboardPack.com",
@@ -81,6 +81,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
