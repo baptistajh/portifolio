@@ -104,7 +104,7 @@ const While = () => {
                                 </details>
                             </CardBody>
                             <CardFooter className="align-right">
-                                <Link to='/fibonacci/fibonacci'>
+                                <Link to='/'>
                                     <Button color={"secondary"} className="btn btn-xl" type="button">
                                         <FontAwesomeIcon icon={faArrowLeft}/>
                                         <span className="ml-2">Voltar</span>
