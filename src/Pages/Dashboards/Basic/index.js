@@ -50,8 +50,8 @@ export default class AnalyticsDashboard1 extends Component {
                         exit={false}>
                         <div>
                             <PageTitle
-                                heading="Menu principal"
-                                subheading="Este é o menu principal da aplicação."
+                                heading="Apresentação"
+                                subheading="Esta é uma breve apresentação pessoal e dos meus objetivos."
                                 icon="pe-7s-home icon-gradient bg-premium-dark"
                             />
                             <Row>
