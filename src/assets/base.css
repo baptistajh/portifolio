@@ -28414,6 +28414,10 @@ body .card.mb-3 {
   text-align: justify !important;
 }
 
+.text-align-center {
+  text-align: center !important;
+}
+
 @import url('https://fonts.googleapis.com/css?family=Courgette');
 
 
@@ -28429,6 +28433,18 @@ body .card.mb-3 {
   font-size: 27px;
   line-height: 1.3;
   letter-spacing: 1px;
+}
+
+.align-right {
+  justify-content: right;
+}
+
+.ml-2 {
+  margin-left: 2px;
+}
+
+.ml-10 {
+  margin-left: 10px;
 }
 
 /*# sourceMappingURL=css.map */
